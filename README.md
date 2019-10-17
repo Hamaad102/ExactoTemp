@@ -1,0 +1,2 @@
+# ExactoTemp
+A web based weather application built on React. The web application takes the users location either through the geolocation api or the user types it in to the search bar. This information is information is passed onto the OpenWeatherMap api which returns the 5 day forecast and is promptly displayed for the user. The user than has an opportunity to either change the location or change the temperature unit from the default which is based on where the person is located (Canada for example shows Celsius by default).
